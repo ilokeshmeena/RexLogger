@@ -67,5 +67,6 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
 
-    implementation(":rexlogger")
+    implementation(project(":rexlogger"))
+
 }
