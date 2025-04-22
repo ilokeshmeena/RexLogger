@@ -2,7 +2,7 @@ package com.rexvit.rexlogger
 
 import android.util.Log
 
-object EnhancedLogger {
+object RexLogger {
     private var config: LoggerConfig = LoggerConfig()
     private var fileLogWriter: FileLogWriter? = null
 
