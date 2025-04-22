@@ -36,7 +36,7 @@ allprojects {
 Add this to your **app-level `build.gradle`**:  
 ```gradle
 dependencies {
-    implementation 'com.github.ilokeshmeena:RexLogger:1.0.0' // Replace with latest version
+    implementation 'com.github.ilokeshmeena:RexLogger:1.0.1' // Replace with latest version
 }
 ```
 
@@ -115,7 +115,7 @@ cd RexLogger
 
 ### Step 3: Use in Another Project  
 ```gradle
-implementation 'com.ilokeshmeena:RexLogger:1.0.0'
+implementation 'com.ilokeshmeena:RexLogger:1.0.1'
 ```
 
 ---
